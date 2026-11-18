@@ -1,94 +1,43 @@
-# Hi, I'm Sanjida Akter Mim! 👋
+<h1 align="center">Hi there, I'm Sanjida Akter Mim! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy7/giphy.gif" width="30px"></h1>
 
-### 🎓 Computer Science & Engineering Student | Aspiring Software Engineer
+<h3 align="center">🎓 CSE Student | 📊 Majoring in Data Science | 🤖 AI & ML Enthusiast</h3>
 
-Welcome to my GitHub profile!
-
-I'm a Computer Science and Engineering student passionate about programming, software development, and learning new technologies. I enjoy solving problems, exploring new concepts, and building projects that help me improve my technical skills.
+<p align="center">
+  I'm a Computer Science and Engineering student with a strong focus on Data Science. I love extracting insights from raw data, building predictive models, and designing scalable software systems. When I'm not writing code, I'm exploring new algorithms and training deep learning models.
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Studying Computer Science and Engineering (CSE).
-- 💻 Interested in Software Development and Problem Solving.
-- 🌱 Continuously learning new programming languages and technologies.
-- 🚀 Working on academic and personal projects.
-- 🎯 Focused on improving my programming and technical skills.
+- 🎓 Studying Computer Science and Engineering, majoring in **Data Science**.
+- 🧠 Passionate about **Machine Learning**, **Computer Vision**, and solving complex analytical problems.
+- 💻 Experienced in building deep learning pipelines, image augmentation, and cross-validation techniques.
+- 🌱 Currently deep-diving into advanced algorithms, neural network architectures, and system modeling.
+- 🚀 Always open to collaborating on data-driven projects and hackathons!
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
-**Programming Languages**
-
-<!-- Add only the languages you actually know -->
-- C
-- C++
-- Java
-- Python
-- JavaScript
-
-**Web Technologies**
-
-- HTML
-- CSS
-
-**Tools & Technologies**
-
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📚 Currently Learning
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Software Engineering
-- Web Development
-- Database Management Systems
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace these examples with your actual repositories -->
-
-| Project | Description | Technologies |
-|---|---|---|
-| Project 1 | Add your project description here. | Add technologies |
-| Project 2 | Add your project description here. | Add technologies |
-| Project 3 | Add your project description here. | Add technologies |
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
+### 🐍 Languages
 <p align="left">
-  <a href="mailto:aktermimsanjida107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-📧 **Email:** aktermimsanjida107@gmail.com
+### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
----
-
-### ✨ "Learning, Building, and Growing Every Day."
-
-Thanks for visiting my GitHub profile! 😊
+### ⚙️ Tools, Environments & Web
+<p align="left">
+  <img src="
