@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4338ca,100:6d28d9&height=200&section=header&text=Sanjida%20Akter%20Mim&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Sc.%20in%20CSE%20(Major%20in%20Data%20Science)%20%E2%80%A2%20Machine%20Learning%20%26%20Computer%20Vision&descAlignY=58&descSize=16" width="100%" alt="Sanjida Akter Mim Banner" />
+  <h1>👩‍💻 Sanjida Akter Mim</h1>
+  <p><b>B.Sc. in Computer Science & Engineering (Major in Data Science)</b></p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7F52FF&center=true&vCenter=true&width=750&lines=Data+Science+%26+Machine+Learning+Enthusiast;Deep+Learning+%26+Computer+Vision+Researcher;Software+Architecture+%26+Algorithmic+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=750&lines=Data+Science+%26+Machine+Learning+Enthusiast;Deep+Learning+%26+Computer+Vision+Researcher;Software+Architecture+%26+Algorithmic+Problem+Solving" alt="Typing SVG" />
 
   <p align="center">
     <a href="mailto:sanjida2003aura@gmail.com">
@@ -21,11 +22,11 @@
   </p>
 </div>
 
-<br />
+<hr />
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="62%" valign="top">
       <h2 id="-about-me">👩‍💻 About Me</h2>
       <p>
         I am a <b>Computer Science & Engineering</b> undergraduate majoring in <b>Data Science</b> at <b>East West University, Bangladesh</b>. My work focuses on designing reproducible, leakage-free machine learning workflows, deep learning computer vision pipelines, and well-structured software architectures.
@@ -39,8 +40,15 @@
         <i>"Perfection is a myth, but turning data and concepts into trustworthy, reproducible intelligent systems brings it closer to reality."</i>
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--coding-programming-software-development-pack-design-illustrations-3702460.png" width="280" alt="Developer Illustration" />
+    <td width="38%" align="center" valign="middle">
+      <h3>⚡ Developer Snapshot</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Role-Data_Science_Major-7F52FF?style=for-the-badge&labelColor=1f2428" alt="Role" /><br />
+        <img src="https://img.shields.io/badge/Domain-Computer_Vision_%26_ML-00B4D8?style=for-the-badge&labelColor=1f2428" alt="Domain" /><br />
+        <img src="https://img.shields.io/badge/Core_Stack-Python_%E2%80%A2_PyTorch-EE4C2C?style=for-the-badge&labelColor=1f2428" alt="Stack" /><br />
+        <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-2EA043?style=for-the-badge&labelColor=1f2428" alt="Location" />
+      </p>
+      <p><code>Learn • Build • Experiment</code></p>
     </td>
   </tr>
 </table>
@@ -155,13 +163,6 @@
 <br />
 
 <h2 id="-github-analytics">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AURAsanjida&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F52FF&icon_color=7F52FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AURAsanjida&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F52FF" height="165" alt="Top Languages" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AURAsanjida&theme=tokyonight&hide_border=true&background=0d1117&ring=7F52FF&fire=7F52FF&currStreakNum=ffffff" alt="GitHub Streak" />
